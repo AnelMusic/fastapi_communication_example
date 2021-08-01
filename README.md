@@ -20,6 +20,7 @@ Hint: --reload makes the server restart after code changes. Only do this for dev
           $  uvicorn timezone_api:app --reload...
 ```
 Your output should look like:
+
 ![start_server](https://user-images.githubusercontent.com/32487291/127780680-177ca54f-5d4d-4319-af5e-7b3fa90ab48e.png)
 
 ## Run UI API (in our case localhost):
@@ -27,6 +28,7 @@ Your output should look like:
           $  python server_communication.py
 ```
 Your output should look like:
+
 ![server_communication](https://user-images.githubusercontent.com/32487291/127780664-b4bc0f68-6bed-477e-8a94-bc1b9b459e29.png)
 
 ## Creating new locations
