@@ -10,14 +10,14 @@ Using a REST API we can access the database information aswelle as create and st
 ##### Installation:
 ```
         Python3.6+:
-         	$  pip install fastapi
-          $  pip install uvicorn[standard]
+         $  pip install fastapi
+         $  pip install uvicorn[standard]
 ```
      
 ## Start Server API (in our case localhost):
 Hint: --reload makes the server restart after code changes. Only do this for development.
 ```
-          $  uvicorn timezone_api:app --reload...
+         $  uvicorn timezone_api:app --reload...
 ```
 Your output should look like:
 
@@ -25,7 +25,7 @@ Your output should look like:
 
 ## Run UI API (in our case localhost):
 ```
-          $  python server_communication.py
+         $  python server_communication.py
 ```
 Your output should look like:
 
