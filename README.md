@@ -31,11 +31,15 @@ Your output should look like:
 
 ![server_communication](https://user-images.githubusercontent.com/32487291/127780664-b4bc0f68-6bed-477e-8a94-bc1b9b459e29.png)
 
-## Creating new locations
+## Creating new locations:
 To add new locations to the database select option 0.
 You can find all available locations here: http://worldtimeapi.org/api/timezone
 
 The worldtimeapi is utilized by our RestAPI to get the coresponding date and time information.
+
+## Sample run:
+
+![sample_run](https://user-images.githubusercontent.com/32487291/127781009-97038b49-38c8-4983-a270-52a5cd792851.png)
 
 ## Testing the API without the local server_communication.py:
 You can access the interactive dynamic API documentation here: http://127.0.0.1:8000/docs
