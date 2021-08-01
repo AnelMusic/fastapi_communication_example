@@ -34,5 +34,14 @@ Your output should look like:
 ## Creating new locations
 To add new locations to the database select option 0.
 You can find all available locations here: http://worldtimeapi.org/api/timezone
+
 The worldtimeapi is utilized by our RestAPI to get the coresponding date and time information.
+
+## Testing the API without the local server_communication.py:
+You can access the interactive dynamic API documentation here: http://127.0.0.1:8000/docs
+
+![api_docs](https://user-images.githubusercontent.com/32487291/127780858-95a73dc1-a321-4c11-976f-8470bef9628b.png)
+
+
+
 
