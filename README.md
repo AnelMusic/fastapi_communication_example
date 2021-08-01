@@ -14,5 +14,23 @@ Using a REST API we can access the database information aswelle as create and st
           $  pip install uvicorn[standard]
 ```
      
+## Start Server API (in our case localhost):
+Hint: --reload makes the server restart after code changes. Only do this for development.
+```
+          $  uvicorn timezone_api:app --reload...
 
+```
+Your output should look like:
+TODO
+
+## Run UI API (in our case localhost):
+```
+          $  python server_communication.py
+```
+Your output should look like:
+TODO
+
+## Creating new locations
+
+http://worldtimeapi.org/api/timezone
 
