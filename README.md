@@ -4,7 +4,7 @@
 
 # FastAPI Toyexample
 This project is used to illustrate the convenient usage of fastAPI. In this project we will a local (in memory) database to store a location object.
-Using a REST API we can access the database information aswelle as create and store location objects.
+Using a REST API we can access the database information as welle as create and store location objects.
 
 ## Prerequisite:
 ##### Installation:
