@@ -38,6 +38,9 @@ You can find all available locations here: http://worldtimeapi.org/api/timezone
 The worldtimeapi is utilized by our RestAPI to get the coresponding date and time information.
 
 ## Sample run:
+- Add Europe/Berlin
+- Add Europe/Amsterdam
+- Get all locations
 
 ![sample_run](https://user-images.githubusercontent.com/32487291/127781009-97038b49-38c8-4983-a270-52a5cd792851.png)
 
